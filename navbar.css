@@ -1,0 +1,92 @@
+.navbar {
+    background-color: #052554;
+    overflow: hidden;
+    color: #FFFFFF;
+}
+/* Style the links inside the navigation bar */
+/*.navbar {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}*/
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #FFFFFF;
+  color: #052554;
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  background-color: #FFFFFF;
+  color: black;
+  color: #052554;
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+  text-align: right;
+}
+
+/*.container-home{
+  position: relative;
+}*/
+
+/* The sidebar menu */
+
+/*.corausel{
+  margin-top: 20px;
+}*/
+
+.carousel-caption{
+	padding-top: 0px;
+    margin-top: - 20%;
+    margin-bottom: 20%;
+    zoom: 0.3456;
+}
+
+/*.row {
+	margin-bottom: 50%;
+	margin-top: 20%;
+	padding : 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}*/
+
+.col-8{
+	margin-top: 60px
+}
+
+#beritaB{
+  margin-top: 30px;
+}
+
+.col-12{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.foto-berita{
+  margin-right: 10px;
+}
+
+#footer {
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background: #ddd;
+}
+
+.row{
+	margin-right: 0px;
+}
+
+.current{
+	background-color: #FFFFFF;
+  	color: black;
+  	color: #052554;
+}
+
